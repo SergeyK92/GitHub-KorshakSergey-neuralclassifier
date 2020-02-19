@@ -21,3 +21,4 @@ x.add(100)
 print(x.count1)
 x.can_add(15)
 # проверка commit
+#добавление 2 комента
